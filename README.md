@@ -2,7 +2,9 @@
 
 🚀 Por que Pathlib? Diferente do antigo os.path, o pathlib trata caminhos como objetos, tornando o código mais legível e multiplataforma.
 
-📚 Índice de Exemplos Arquivo Descrição Funções Principais ex01-02 Fundamentos e Renomeação exists(), name, rename()ex03-04 Estrutura e Hierarquiaglob (), parts, parent ex05-06 Datas e Extensões stat(), with_suffix () ex07-11 Automação e Limpeza touch(), zipfile, rglob(), unlink()🛠️ Comandos Essenciais (Cheat Sheet)
+📚 Índice de Exemplos Arquivo Descrição Funções Principais ex01-02 Fundamentos e Renomeação exists(), name, rename()ex03-04 Estrutura e Hierarquiaglob (), parts, parent ex05-06 Datas e Extensões stat(), with_suffix () ex07-11 Automação e Limpeza touch(), zipfile, rglob(), unlink()
+
+🛠️ Comandos Essenciais (Cheat Sheet)
 
 # Criar referência e verificar propriedades
 p = Path("docs/relatorio.pdf")
